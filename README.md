@@ -26,4 +26,4 @@ This project showcases the deployment and analysis of an SSH honeypot using **Co
 ---
 
 ## 🔍 Sample Logs
-
+![sample_cowrie_logs](cowrie.png)
